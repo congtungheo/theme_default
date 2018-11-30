@@ -1,5 +1,7 @@
-//= require jquery
+//= require backend/jquery.min
 //= require rails-ujs
-//= require bootstrap
+//= require backend/bootstrap.min
 //= require turbolinks
-//= require_tree ./backend
+//= require_tree ./backend/shared
+//= require backend/adminlte
+

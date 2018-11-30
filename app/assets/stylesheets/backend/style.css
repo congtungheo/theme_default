@@ -1,0 +1,16 @@
+.breadcrumb {
+  border-bottom: 1px solid #cdcdc352;
+  background-color: #ECF0F5;
+}
+
+.content-wrapper {
+  min-height: 89vh;
+}
+
+.content-header {
+  padding: 5px 15px 0 15px;
+}
+
+.box {
+  border-top: 1px solid #d2d6de
+}
